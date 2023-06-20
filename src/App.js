@@ -28,7 +28,7 @@ function App() {
               <Card.Body>
                 <Card.Title>CSE/ISE/AIDS/AIML</Card.Title>
                 <Card.Text></Card.Text>
-                <Link to="https://unstop.com/p/quest-test-series-csisadai-quest-690260" target="__blank" className="btn btn-success">Go &rarr;</Link>
+                <Link to="https://unstop.com/p/quest-test-series-csisaiad-quest-690284" target="__blank" className="btn btn-success">Go &rarr;</Link>
               </Card.Body>
             </Card>
           </Col>
@@ -39,7 +39,7 @@ function App() {
               <Card.Body>
                 <Card.Title>EC/EI/ET</Card.Title>
                 <Card.Text></Card.Text>
-                <Link to="https://unstop.com/p/quest-test-series-eceiet-quest-690292" target="__blank" className="btn btn-success">Go &rarr;</Link>
+                <Link to="https://unstop.com/p/quest-test-series-eceiet-quest-690294" target="__blank" className="btn btn-success">Go &rarr;</Link>
               </Card.Body>
             </Card>
           </Col>
